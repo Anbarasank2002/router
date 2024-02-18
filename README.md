@@ -35,7 +35,7 @@
 
 ## Netlify Link
 
-[Deployed with Netlify](/)
+[Deployed with Netlify](router-z.netlify.app/)
 
 # React + Vite
 
